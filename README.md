@@ -1,6 +1,6 @@
-# BC | Angular Portfolio App
+# GM | Angular Portfolio App
 
-This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: [https://angular-portfolio-app-omega.vercel.app/](https://angular-portfolio-app-omega.vercel.app/)
+This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: [Giuseppe-Portifólio](https://portifoliogiuseppe.vercel.app/home)
 
 ![Barbara Calderon's Angular Portfolio App](portfolio.png)
 
@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Author
 
-I'm Barbara Calderon, a software developer.
+I'm Giuseppe Mota, a software developer.
 
 - [Github](https://www.github.com/barbaracalderon)
 - [Linkedin](https://www.linkedin.com/in/barbaracalderondev)
