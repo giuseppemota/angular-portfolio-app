@@ -1,16 +1,16 @@
 import { Component, OnInit } from "@angular/core";
 import { Title } from "@angular/platform-browser";
-import { RouterLinkActive, RouterOutlet, RouterLink } from "@angular/router";
+import { RouterLink } from "@angular/router";
 
 @Component({
   selector: "app-home",
   standalone: true,
-  imports: [RouterOutlet, RouterLink, RouterLinkActive],
+  imports: [RouterLink],
   templateUrl: "./home.component.html",
   styleUrls: ["./home.component.css", "/src/styles.css"],
 })
 export class HomeComponent implements OnInit {
-  dynamicText: string = "";
+  dynamicText = "";
   phrases: string[] = [
     "Team Player.",
     "Software Developer.",
@@ -19,15 +19,15 @@ export class HomeComponent implements OnInit {
     "Code Enthusiast.",
   ];
 
-  currentPhraseIndex: number = 0;
-  currentCharIndex: number = 0;
-  isDeleting: boolean = false;
-  typingSpeed: number = 100;
-  deletingSpeed: number = 100;
-  delayBetweenPhrases: number = 2000;
+  currentPhraseIndex = 0;
+  currentCharIndex = 0;
+  isDeleting = false;
+  typingSpeed = 100;
+  deletingSpeed = 100;
+  delayBetweenPhrases = 2000;
 
   constructor(private titleService: Title) {
-    this.titleService.setTitle("BC | Home");
+    this.titleService.setTitle("GM | Início");
   }
 
   ngOnInit(): void {
