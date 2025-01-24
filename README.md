@@ -10,9 +10,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 I'm Giuseppe Mota, a software developer.
 
-- [Github](https://www.github.com/barbaracalderon)
-- [Linkedin](https://www.linkedin.com/in/barbaracalderondev)
-- [Twitter](https://www.x.com/bederoni)
+- [Github](https://github.com/giuseppemota)
+- [Linkedin](https://www.linkedin.com/in/giuseppe-mota-b9aaab200/)
+
 
 ## The Project
 
