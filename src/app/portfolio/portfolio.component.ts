@@ -61,6 +61,24 @@ export class PortfolioComponent {
         "../../assets/Tela-Produtos.jpg",
       ],
     },
+    {
+      id: 3,
+      name: "Orquestrador Assíncrono de Pedidos",
+      summary:
+        "API assíncrona com Python, FastAPI, RabbitMQ e PostgreSQL. Um worker consulta o ViaCEP e persiste os dados; execução com Docker Compose.",
+      description:
+        "Orquestrador assíncrono de pedidos desenvolvido com Python, FastAPI, RabbitMQ e PostgreSQL. A API enfileira os pedidos para processamento, e um worker consulta o ViaCEP e persiste os dados no banco. O projeto é executado com Docker Compose.",
+      projectLink:
+        "https://github.com/giuseppemota/asynchronous-data-orchestrator",
+      tags: [
+        Tag.PYTHON,
+        Tag.FASTAPI,
+        Tag.RABBITMQ,
+        Tag.POSTGRESQL,
+        Tag.DOCKERCOMPOSE,
+      ],
+      pictures: [],
+    },
   ];
 
   constructor(private titleService: Title) {
