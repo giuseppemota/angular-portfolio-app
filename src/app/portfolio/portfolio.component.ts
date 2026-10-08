@@ -42,7 +42,7 @@ export class PortfolioComponent {
       description:
         "O 2D Barcode Frontend é uma aplicação Angular que consome a API Barcode Backend API para gerenciar produtos, usuários, gerar e consumir QR CODE. Utilizando Angular, HTML5, CSS3 e PrimeNG, a aplicação oferece uma interface intuitiva e funcionalidades avançadas para gerenciamento de produtos e usuários. A combinação dessas tecnologias proporciona uma aplicação eficiente e de fácil manutenção, atendendo às necessidades de gerenciamento diário de produtos e usuários.",
       projectLink:
-        "https://github.com/giuseppemota/Ingenico.2D.Barcode/tree/development",
+        "https://github.com/giuseppemota/Ingenico.2D.Barcode/tree/deploy",
       tags: [
         Tag.ANGULAR,
         Tag.HTML5,
